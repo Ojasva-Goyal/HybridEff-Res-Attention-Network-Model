@@ -68,6 +68,7 @@ Performance Comparison:
 
 | Model         | Accuracy      |  Precision     |  Recall       |  F1-Score |
 | ------------- | ------------- |  ------------- | ------------- | ------------- |
+| Hybrid EffRes Attention Network Model  | Content Cell  | ------------- | ------------- | ------------- |
 | EfficientNet B0  | Content Cell  | ------------- | ------------- | ------------- |
 | EfficientNet B1  | Content Cell  | ------------- | ------------- | ------------- |
 | EfficientNet B2  | Content Cell  | ------------- | ------------- | ------------- |
@@ -89,26 +90,15 @@ Performance Comparison:
 | VGG 16  | Content Cell  | ------------- | ------------- | ------------- |
 
 
-Contributing
+## Contributing
 We welcome contributions to improve this project! Please see the CONTRIBUTING.md file for guidelines.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 Include any acknowledgements, references to your paper, or external libraries used.
-Contact
+## Contact
 For any questions or suggestions, feel free to reach out to your email.
 
-markdown
-Copy code
-
-### Additional Files
-- **`requirements.txt`**: List of dependencies.
-- **`LICENSE`**: Your chosen license (e.g., MIT).
-- **`CONTRIBUTING.md`**: Guidelines for contributing to the repository.
-- **`config/config.yaml`**: Example configuration file.
-- **Example Jupyter Notebooks**: For demonstration purposes.
-
-By providing clear instructions, comprehensive documentation, and easy-to-navigate code, you will enable others to effectively use and contribute to your Hybrid EffRes Attention Network Model.
 
