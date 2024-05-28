@@ -66,27 +66,27 @@ python evaluation/evaluate.py --model_path saved_models/your_model.pth --data_pa
 ## Results
 Performance Comparison:
 
-| Model  | Accuracy |  Precision |  Recall |  F1-Score |
-| ------------- | ------------- |  | ------------- | ------------- | | ------------- |
-| EfficientNet B0  | Content Cell  | | ------------- | ------------- | | ------------- |
-| EfficientNet B1  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| EfficientNet B2  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| EfficientNet B3  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| EfficientNet B4  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| EfficientNet B5  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| EfficientNet B6  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| EfficientNet B7  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| EfficientNet B8  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| EfficientNet B9  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| MobileNet  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| MobileNetv2  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| MobileNetv3_Small  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| MobileNetv3_Large  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| ResNet 50  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| ResNet 152  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| Inception v3  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| DebseNet 121  | Content Cell  |  | ------------- | ------------- | | ------------- |
-| VGG 16  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| Model         | Accuracy      |  Precision     |  Recall       |  F1-Score |
+| ------------- | ------------- |  ------------- | ------------- | ------------- |
+| EfficientNet B0  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B1  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B2  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B3  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B4  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B5  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B6  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B7  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B8  | Content Cell  | ------------- | ------------- | ------------- |
+| EfficientNet B9  | Content Cell  | ------------- | ------------- | ------------- |
+| MobileNet  | Content Cell  | ------------- | ------------- | ------------- |
+| MobileNetv2  | Content Cell   | ------------- | ------------- | ------------- |
+| MobileNetv3_Small  | Content Cell  | ------------- | ------------- | ------------- |
+| MobileNetv3_Large  | Content Cell | ------------- | ------------- | ------------- |
+| ResNet 50  | Content Cell  | ------------- | ------------- | ------------- |
+| ResNet 152  | Content Cell  | ------------- | ------------- | ------------- |
+| Inception v3  | Content Cell  | ------------- | ------------- | ------------- |
+| DebseNet 121  | Content Cell  | ------------- | ------------- | ------------- |
+| VGG 16  | Content Cell  | ------------- | ------------- | ------------- |
 
 
 Contributing
