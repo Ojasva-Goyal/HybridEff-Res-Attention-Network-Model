@@ -7,15 +7,15 @@ The Hybrid EffRes Attention Network Model (HEANM) is a novel deep learning archi
 - Combines EfficientNet and ResNet architectures
 - Incorporates attention mechanisms to enhance performance
 - Customizable and extensible
-- Provided with pre-trained weights and example notebooks
+- Provided with pre-trained weights and example scripts.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Training](#training)
+- [Training](training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
+- [Contributing](contributing)
 - [License](#license)
 
 ## Installation
