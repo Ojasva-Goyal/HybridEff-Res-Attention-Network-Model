@@ -52,4 +52,70 @@ The architecture combines EfficientNet and ResNet models with attention mechanis
 To run inference using a trained model:
 ```bash
 python inference/predict.py --model_path saved_models/your_model.pth --input_path path/to/your/input
+```
+
+### Training
+Detailed instructions for training the model on your custom dataset can be found in `training/README.md`.
+
+### Evaluation
+Evaluation scripts and metrics are provided in the `evaluation/` directory. Run the evaluation script to see the performance of the trained model:
+
+``` bash
+python evaluation/evaluate.py --model_path saved_models/your_model.pth --data_path path/to/your/test_data
+```
+## Results
+Performance Comparison:
+
+| Model  | Accuracy |  Precision |  Recall |  F1-Score |
+| ------------- | ------------- |  | ------------- | ------------- | | ------------- |
+| EfficientNet B0  | Content Cell  | | ------------- | ------------- | | ------------- |
+| EfficientNet B1  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| EfficientNet B2  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| EfficientNet B3  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| EfficientNet B4  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| EfficientNet B5  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| EfficientNet B6  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| EfficientNet B7  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| EfficientNet B8  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| EfficientNet B9  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| MobileNet  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| MobileNetv2  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| MobileNetv3_Small  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| MobileNetv3_Large  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| ResNet 50  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| ResNet 152  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| Inception v3  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| DebseNet 121  | Content Cell  |  | ------------- | ------------- | | ------------- |
+| VGG 16  | Content Cell  |  | ------------- | ------------- | | ------------- |
+
+Model	Accuracy	Precision	Recall	F1-Score
+ResNet	xx%	xx%	xx%	xx%
+EfficientNet	xx%	xx%	xx%	xx%
+MobileNet	xx%	xx%	xx%	xx%
+HEANM (Proposed)	xx%	xx%	xx%	xx%
+Visualization
+Include any relevant visualizations or graphs that demonstrate the performance improvements or model architecture.
+
+Contributing
+We welcome contributions to improve this project! Please see the CONTRIBUTING.md file for guidelines.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgements
+Include any acknowledgements, references to your paper, or external libraries used.
+Contact
+For any questions or suggestions, feel free to reach out to your email.
+
+markdown
+Copy code
+
+### Additional Files
+- **`requirements.txt`**: List of dependencies.
+- **`LICENSE`**: Your chosen license (e.g., MIT).
+- **`CONTRIBUTING.md`**: Guidelines for contributing to the repository.
+- **`config/config.yaml`**: Example configuration file.
+- **Example Jupyter Notebooks**: For demonstration purposes.
+
+By providing clear instructions, comprehensive documentation, and easy-to-navigate code, you will enable others to effectively use and contribute to your Hybrid EffRes Attention Network Model.
 
