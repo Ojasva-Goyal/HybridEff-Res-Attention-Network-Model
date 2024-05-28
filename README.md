@@ -88,13 +88,6 @@ Performance Comparison:
 | DebseNet 121  | Content Cell  |  | ------------- | ------------- | | ------------- |
 | VGG 16  | Content Cell  |  | ------------- | ------------- | | ------------- |
 
-Model	Accuracy	Precision	Recall	F1-Score
-ResNet	xx%	xx%	xx%	xx%
-EfficientNet	xx%	xx%	xx%	xx%
-MobileNet	xx%	xx%	xx%	xx%
-HEANM (Proposed)	xx%	xx%	xx%	xx%
-Visualization
-Include any relevant visualizations or graphs that demonstrate the performance improvements or model architecture.
 
 Contributing
 We welcome contributions to improve this project! Please see the CONTRIBUTING.md file for guidelines.
