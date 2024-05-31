@@ -21,7 +21,7 @@ The Hybrid EffRes Attention Network Model (HEANM) is a novel deep learning archi
 ## Installation
 1. Clone the repository:
     ```bash
-    https://github.com/Ojasva-Goyal/HybridEff-Res-Attention-Network-Model.git
+    git clone https://github.com/Ojasva-Goyal/HybridEff-Res-Attention-Network-Model.git
     cd Hybrid-EffRes-Attention-Network
     ```
 
