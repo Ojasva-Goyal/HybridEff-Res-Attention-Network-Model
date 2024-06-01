@@ -5,3 +5,5 @@ scikit-learn
 Pillow
 matplotlib
 seaborn
+os
+argparse
