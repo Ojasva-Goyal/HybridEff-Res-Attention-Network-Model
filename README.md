@@ -51,7 +51,18 @@ The architecture combines EfficientNet and ResNet models with attention mechanis
 ### Running Inference
 To run inference using a trained model:
 ```bash
-python inference/predict.py --model_path saved_models/your_model.pth --input_path path/to/your/input
+python predict.py --model_path path_to_your_model.pth --input_path path_to_test_images --output_path output --output_type csv
+```
+
+    - `--model_path`: Path to the saved model weights.
+    - `--input_path`: Path to the folder containing test images.
+    - `--output_path`: Path where the output CSV or Excel file will be saved. Default is "./output".
+    - `--output_type`: Type of file to save the results. Choices are "csv" or "excel". Default is "csv".
+
+#### Example
+
+```sh
+python predict.py --model_path ./models/model.pth --input_path ./test_images --output_path ./results --output_type excel
 ```
 
 ### Training
