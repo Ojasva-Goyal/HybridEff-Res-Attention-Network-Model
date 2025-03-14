@@ -108,8 +108,8 @@ We welcome contributions to improve this project! Please see the CONTRIBUTING.md
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-Include any acknowledgements, references to your paper, or external libraries used.
+Research Paper under peer review right now !!
 ## Contact
-For any questions or suggestions, feel free to reach out to your email.
+For any questions or suggestions, feel free to contact me at ojasvagoyal9@gmail.com.
 
 
